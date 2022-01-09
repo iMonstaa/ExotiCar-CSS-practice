@@ -6,7 +6,7 @@
 
 ---
 
-**Finished:** 9th January 2022.
+**Finished:** 9th January 2022.<br>
 **Finished in:** 5h 30min
 
 ### What I learned in this project:
